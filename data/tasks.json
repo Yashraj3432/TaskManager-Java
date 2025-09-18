@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Java project",
+    "description": "Finish coding TaskManager and push to GitHub",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Prepare Resume",
+    "description": "Add project section with TaskManager",
+    "completed": false
+  }
+]
